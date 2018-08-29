@@ -1,14 +1,13 @@
 Metadata-Version: 2.1
 Name: CardRL
-Version: 0.0.2
-Summary: A Python Card Game Environment
-Home-page: https://github.com/vrishank97/CardRL
-Author: Vrishank Bhardwaj, Kartik Gupta
+Version: 0.0.1
+Summary: A Multi Agent Reinforcement Learning environment
+Home-page: https://github.com/vrishank97/SnakeRL
+Author: Vrishank Bhardwaj
 Author-email: vrishank1997@gmail.com
 License: UNKNOWN
-Description: # CardRL
-        A Python Card Game Environment.
-        
+Description: # CarlRL
+        A Multi Agent Reinforcement Learning environment
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
