@@ -5,3 +5,7 @@ CardRL.egg-info/PKG-INFO
 CardRL.egg-info/SOURCES.txt
 CardRL.egg-info/dependency_links.txt
 CardRL.egg-info/top_level.txt
+CardRL/deck/__init__.py
+CardRL/deck/deck.py
+CardRL/games/__init__.py
+CardRL/games/texas.py

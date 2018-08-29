@@ -1,9 +1,9 @@
 Metadata-Version: 2.1
 Name: CardRL
-Version: 0.0.1
+Version: 0.0.2
 Summary: A Multi Agent Reinforcement Learning environment
 Home-page: https://github.com/vrishank97/SnakeRL
-Author: Vrishank Bhardwaj
+Author: Vrishank Bhardwaj, Vedant Chakravadhanula
 Author-email: vrishank1997@gmail.com
 License: UNKNOWN
 Description: # CarlRL
