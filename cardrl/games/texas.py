@@ -1,4 +1,4 @@
-import carlrl.deck.deck
+import deck.deck
 
 class Texas:
 	def __init__(self, num_agents, buy_in):
