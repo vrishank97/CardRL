@@ -16,5 +16,8 @@ class Deck:
 		Uses numpy to shuffle cards(stored in numpy array)
 		fix the random seed for this in init, to let people reproduce results
 		"""
-		self.x = np.random.shuffle(self.x)
-		np.savetxt('shuffle.out',x,fmt = '%0.1d',delimiter=',')
+		np.random.shuffle(self.x)
+		# np.savetxt('shuffle.out',self.x,fmt = '%0.1d',delimiter=',')
+
+	def __str__(self):
+		return str(self.x)
