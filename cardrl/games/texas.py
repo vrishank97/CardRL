@@ -1,4 +1,6 @@
-import deck.deck
+import sys
+sys.path.append('../')
+from deck.deck import Deck
 
 class Texas:
 	def __init__(self, num_agents, buy_in):
